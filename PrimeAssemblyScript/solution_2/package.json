@@ -16,7 +16,7 @@
   "author": "",
   "license": "BSD-3",
   "dependencies": {
-    "@assemblyscript/loader": "0.19.10"
+    "@assemblyscript/loader": "0.27.25"
   },
   "devDependencies": {
     "assemblyscript": "0.19.10"
